@@ -1,3 +1,5 @@
+using System.Threading.Tasks;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Shop.Domain.Commands.Handler;
 using Shop.Domain.Commands.Requests;
@@ -11,11 +13,11 @@ namespace Shop.Controllers
     {
         [HttpPost]
         [Route("")]
-        public CreateCustomerResponse Create(
-            [FromServices]ICreateCustomerHandler handler,
+        public Task<CreateCustomerResponse> Create(
+            [FromServices]IMediator mediator,
             [FromBody]CreateCustomerRequest command )
             {
-                return handler.Handle(command);
+                return  mediator.Send(command);
             }
     }
 }

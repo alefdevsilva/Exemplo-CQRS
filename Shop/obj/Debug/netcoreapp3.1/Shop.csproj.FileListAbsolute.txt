@@ -18,3 +18,8 @@ C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\obj\Debug\netco
 C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\obj\Debug\netcoreapp3.1\Shop.dll
 C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\obj\Debug\netcoreapp3.1\Shop.pdb
 C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AlefAlessandroPereir\Desktop\Projetos\Exemplo-CQRS\shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
